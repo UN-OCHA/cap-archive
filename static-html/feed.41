@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.unocha.org/cap"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>OCHA - Consolidated Appeal Process - Benin</title>
+ <link>http://www.unocha.org/cap/taxonomy/term/80/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Appel éclair pour le Bénin</title>
+ <link>http://www.unocha.org/cap/appel-%C3%A9clair-pour-le-b%C3%A9nin</link>
+ <description>&lt;div class=&quot;field field-type-filefield field-field-image&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;img src=&quot;http://www.unocha.org/cap/sites/unocha.org.cap/files/imagecache/appeal_front_image/images/Flash_2005_Benin_FR_Cover_0.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  class=&quot;imagecache imagecache-appeal_front_image imagecache-default imagecache-appeal_front_image_default&quot; width=&quot;150&quot; height=&quot;150&quot; /&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-date field-field-updated-date&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;Friday, May 13, 2005 - 12:20&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;
+	Le pr&amp;eacute;sent &amp;laquo;&amp;nbsp;Appel &amp;eacute;clair&amp;nbsp;&amp;raquo;, d&amp;rsquo;un montant de &lt;strong&gt;5 951 780 USD&lt;/strong&gt;,&amp;nbsp; vise &amp;agrave; faire face aux besoins de 20 000 r&amp;eacute;fugi&amp;eacute;s Togolais, pour une p&amp;eacute;riode de 6 mois (mai 2005 &amp;agrave; octobre 2005).&amp;nbsp;&lt;/p&gt;
+&lt;fieldset class=&quot;fieldgroup group-dms-links&quot;&gt;&lt;legend&gt;DMS Links&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-dms-link&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;DMS link (PDF):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    Flash_2005_Benin_FR.pdf        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.unocha.org/cap/appel-%C3%A9clair-pour-le-b%C3%A9nin&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://www.unocha.org/cap/category/year/2005">2005</category>
+ <category domain="http://www.unocha.org/cap/category/country/benin">Benin</category>
+ <category domain="http://www.unocha.org/cap/category/appeal/Flash%20Appeal">Flash Appeal</category>
+ <georss: />
+ <pubDate>Sun, 30 Dec 2012 17:28:22 +0000</pubDate>
+ <dc:creator>natalel@un.org</dc:creator>
+ <guid isPermaLink="false">2205 at http://www.unocha.org/cap</guid>
+</item>
+</channel>
+</rss>

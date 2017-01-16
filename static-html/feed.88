@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.unocha.org/cap"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>OCHA - Consolidated Appeal Process - Russian Federation</title>
+ <link>http://www.unocha.org/cap/taxonomy/term/102/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Mid-Year Review of the Consolidated Appeal for Chechnya (Russian Federation) 2005</title>
+ <link>http://www.unocha.org/cap/mid-year-review-consolidated-appeal-chechnya-russian-federation-2005</link>
+ <description>&lt;div class=&quot;field field-type-filefield field-field-image&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;img src=&quot;http://www.unocha.org/cap/sites/unocha.org.cap/files/imagecache/appeal_front_image/images/MYR_2005_Chechnya_Cover.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  class=&quot;imagecache imagecache-appeal_front_image imagecache-default imagecache-appeal_front_image_default&quot; width=&quot;150&quot; height=&quot;150&quot; /&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-date field-field-updated-date&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;Wednesday, June 29, 2005 - 09:09&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;&lt;fieldset class=&quot;fieldgroup group-dms-links&quot;&gt;&lt;legend&gt;DMS Links&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-dms-link&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;DMS link (PDF):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    MYR_2005_Chechnya.pdf        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.unocha.org/cap/mid-year-review-consolidated-appeal-chechnya-russian-federation-2005&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://www.unocha.org/cap/category/year/2005">2005</category>
+ <category domain="http://www.unocha.org/cap/category/country/russian-federation">Russian Federation</category>
+ <category domain="http://www.unocha.org/cap/category/appeal/Consolidated%20Appeal">Consolidated Appeal</category>
+ <georss: />
+ <pubDate>Sat, 29 Dec 2012 14:16:40 +0000</pubDate>
+ <dc:creator>natalel@un.org</dc:creator>
+ <guid isPermaLink="false">2191 at http://www.unocha.org/cap</guid>
+</item>
+</channel>
+</rss>

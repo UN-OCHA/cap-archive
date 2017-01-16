@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.unocha.org/cap"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>OCHA - Consolidated Appeal Process - Zambia</title>
+ <link>http://www.unocha.org/cap/taxonomy/term/111/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Zambia Floods Flash Appeal 2007</title>
+ <link>http://www.unocha.org/cap/appeals/zambia-floods-flash-appeal-2007</link>
+ <description>&lt;div class=&quot;field field-type-filefield field-field-image&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;img src=&quot;http://www.unocha.org/cap/sites/unocha.org.cap/files/imagecache/appeal_front_image/images/2007_Zambia_Floods_Flash_Appeal_cover.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  class=&quot;imagecache imagecache-appeal_front_image imagecache-default imagecache-appeal_front_image_default&quot; width=&quot;150&quot; height=&quot;150&quot; /&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-date field-field-updated-date&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;Tuesday, March 27, 2007 - 09:23&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p align=&quot;left&quot;&gt;
+&lt;/p&gt;&lt;fieldset class=&quot;fieldgroup group-dms-links&quot;&gt;&lt;legend&gt;DMS Links&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-dms-link&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;DMS link (PDF):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    Flash_2007_Zambia.pdf        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.unocha.org/cap/appeals/zambia-floods-flash-appeal-2007&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://www.unocha.org/cap/category/year/2007">2007</category>
+ <category domain="http://www.unocha.org/cap/category/country/zambia">Zambia</category>
+ <category domain="http://www.unocha.org/cap/category/appeal/Flash%20Appeal">Flash Appeal</category>
+ <georss: />
+ <pubDate>Fri, 28 Sep 2012 13:26:33 +0000</pubDate>
+ <dc:creator>cianni@un.org</dc:creator>
+ <guid isPermaLink="false">2104 at http://www.unocha.org/cap</guid>
+</item>
+</channel>
+</rss>

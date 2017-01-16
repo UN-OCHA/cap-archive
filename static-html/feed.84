@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.unocha.org/cap"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>OCHA - Consolidated Appeal Process - Korea, Democratic People&#039;s Republic of</title>
+ <link>http://www.unocha.org/cap/taxonomy/term/94/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Democratic People&#039;s Republic of Korea Floods Flash Appeal 2007</title>
+ <link>http://www.unocha.org/cap/appeals/democratic-peoples-republic-korea-floods-flash-appeal-2007</link>
+ <description>&lt;div class=&quot;field field-type-filefield field-field-image&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;img src=&quot;http://www.unocha.org/cap/sites/unocha.org.cap/files/imagecache/appeal_front_image/images/MYR_2007_Dominican Republic_Tropical Storm Noel and Olga_Flash_Appeal_cover_0.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  class=&quot;imagecache imagecache-appeal_front_image imagecache-default imagecache-appeal_front_image_default&quot; width=&quot;150&quot; height=&quot;150&quot; /&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-date field-field-updated-date&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;Monday, August 27, 2007 - 09:05&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p align=&quot;left&quot;&gt;
+	Torrential rains between 7 and 14 August 2007 caused severe flooding in the Democratic People&amp;rsquo;s Republic of Korea (DPRK), killing over 450 people and affecting over 960,000. &amp;nbsp;Nine provinces in central and northern DPRK are worst affected, as well as the capital Pyongyang. Nearly 170,000 people have been made homeless.&lt;/p&gt;
+&lt;fieldset class=&quot;fieldgroup group-dms-links&quot;&gt;&lt;legend&gt;DMS Links&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-dms-link&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;DMS link (PDF):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    Flash_2007_Dprkorea.pdf        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.unocha.org/cap/appeals/democratic-peoples-republic-korea-floods-flash-appeal-2007&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://www.unocha.org/cap/category/year/2007">2007</category>
+ <category domain="http://www.unocha.org/cap/category/country/korea-democratic-peoples-republic">Korea, Democratic People&#039;s Republic of</category>
+ <category domain="http://www.unocha.org/cap/category/appeal/Flash%20Appeal">Flash Appeal</category>
+ <georss: />
+ <pubDate>Wed, 26 Sep 2012 13:21:45 +0000</pubDate>
+ <dc:creator>cianni@un.org</dc:creator>
+ <guid isPermaLink="false">2064 at http://www.unocha.org/cap</guid>
+</item>
+</channel>
+</rss>

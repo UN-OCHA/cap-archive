@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.unocha.org/cap"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>OCHA - Consolidated Appeal Process - Bolivia</title>
+ <link>http://www.unocha.org/cap/taxonomy/term/81/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Bolivia Phenomenon La Niña Flash Appeal 2008</title>
+ <link>http://www.unocha.org/cap/appeals/bolivia-phenomenon-la-ni%C3%B1-flash-appeal-2008</link>
+ <description>&lt;div class=&quot;field field-type-filefield field-field-image&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;img src=&quot;http://www.unocha.org/cap/sites/unocha.org.cap/files/imagecache/appeal_front_image/images/2008_Bolivia_Phenomenon La Niña Flash Appeal_cover.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  class=&quot;imagecache imagecache-appeal_front_image imagecache-default imagecache-appeal_front_image_default&quot; width=&quot;150&quot; height=&quot;150&quot; /&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-date field-field-updated-date&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;Thursday, February 21, 2008 - 12:58&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p align=&quot;left&quot;&gt;
+&lt;/p&gt;&lt;fieldset class=&quot;fieldgroup group-dms-links&quot;&gt;&lt;legend&gt;DMS Links&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-dms-link&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;DMS link (PDF):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    Flash_2008_Bolivia.pdf        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.unocha.org/cap/appeals/bolivia-phenomenon-la-ni%C3%B1-flash-appeal-2008&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://www.unocha.org/cap/category/year/2007">2007</category>
+ <category domain="http://www.unocha.org/cap/category/country/bolivia">Bolivia</category>
+ <category domain="http://www.unocha.org/cap/category/appeal/Flash%20Appeal">Flash Appeal</category>
+ <georss:point>-16.499010000411 -68.146248000045</georss:point>
+ <pubDate>Fri, 28 Sep 2012 17:16:19 +0000</pubDate>
+ <dc:creator>cianni@un.org</dc:creator>
+ <guid isPermaLink="false">2107 at http://www.unocha.org/cap</guid>
+</item>
+</channel>
+</rss>

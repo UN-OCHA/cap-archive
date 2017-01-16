@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.unocha.org/cap"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>OCHA - Consolidated Appeal Process - Caucasus</title>
+ <link>http://www.unocha.org/cap/taxonomy/term/116/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Revision of the Transitional Workplan for the North Caucasus (Russian Federation) 2006 </title>
+ <link>http://www.unocha.org/cap/appeals/revision-transitional-workplan-north-caucasus-russian-federation-2006</link>
+ <description>&lt;div class=&quot;field field-type-filefield field-field-image&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;img src=&quot;http://www.unocha.org/cap/sites/unocha.org.cap/files/imagecache/appeal_front_image/images/Revision_2006_NCaucasus_Workplan_cover.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  class=&quot;imagecache imagecache-appeal_front_image imagecache-default imagecache-appeal_front_image_default&quot; width=&quot;150&quot; height=&quot;150&quot; /&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-date field-field-updated-date&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;Tuesday, July 18, 2006 - 05:22&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;
+	In 2006, nine UN agencies and thirteen NGOs have run a joint recovery-oriented, humanitarian and development assistance operation in Chechnya and its neighboring republics under the Inter-Agency Transitional Workplan for the North Caucasus. The consultative partnership for planning and implementing this program in fact extends far wider than this group, and comprises many more NGOs, local and federal government bodies, ICRC, and diplomatic missions and assistance donors.&lt;/p&gt;
+&lt;fieldset class=&quot;fieldgroup group-dms-links&quot;&gt;&lt;legend&gt;DMS Links&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-dms-link&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;DMS link (PDF):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    Revision_2006_NCaucasus_Workplan.pdf        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.unocha.org/cap/appeals/revision-transitional-workplan-north-caucasus-russian-federation-2006&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://www.unocha.org/cap/category/year/2006">2006</category>
+ <category domain="http://www.unocha.org/cap/category/country/caucasus">Caucasus</category>
+ <category domain="http://www.unocha.org/cap/category/appeal/Consolidated%20Appeal">Consolidated Appeal</category>
+ <georss: />
+ <pubDate>Tue, 08 Apr 2014 09:28:06 +0000</pubDate>
+ <dc:creator>natalel@un.org</dc:creator>
+ <guid isPermaLink="false">3166 at http://www.unocha.org/cap</guid>
+</item>
+</channel>
+</rss>

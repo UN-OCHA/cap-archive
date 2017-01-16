@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.unocha.org/cap"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>OCHA - Consolidated Appeal Process - Horn of Africa</title>
+ <link>http://www.unocha.org/cap/taxonomy/term/12/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Consolidated Appeal for the Horn of Africa 2006</title>
+ <link>http://www.unocha.org/cap/appeals/consolidated-appeal-horn-africa-2006</link>
+ <description>&lt;div class=&quot;field field-type-filefield field-field-image&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;img src=&quot;http://www.unocha.org/cap/sites/unocha.org.cap/files/imagecache/appeal_front_image/images/CAP_2006_HornOfAfricacover.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  class=&quot;imagecache imagecache-appeal_front_image imagecache-default imagecache-appeal_front_image_default&quot; width=&quot;150&quot; height=&quot;150&quot; /&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-date field-field-updated-date&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;Friday, April 7, 2006 - 12:17&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;&lt;fieldset class=&quot;fieldgroup group-dms-links&quot;&gt;&lt;legend&gt;DMS Links&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-dms-link&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;DMS link (PDF):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    CAP_2006_HornOfAfrica.pdf        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.unocha.org/cap/appeals/consolidated-appeal-horn-africa-2006&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://www.unocha.org/cap/category/year/2006">2006</category>
+ <category domain="http://www.unocha.org/cap/category/country/horn-africa">Horn of Africa</category>
+ <category domain="http://www.unocha.org/cap/category/appeal/Consolidated%20Appeal">Consolidated Appeal</category>
+ <georss: />
+ <pubDate>Fri, 04 Apr 2014 16:26:11 +0000</pubDate>
+ <dc:creator>natalel@un.org</dc:creator>
+ <guid isPermaLink="false">3151 at http://www.unocha.org/cap</guid>
+</item>
+<item>
+ <title>Humanitarian Requirements Document for the Horn of Africa Drought 2011</title>
+ <link>http://www.unocha.org/cap/appeals/humanitarian-requirements-document-horn-africa-drought-2011</link>
+ <description>&lt;div class=&quot;field field-type-filefield field-field-image&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;img src=&quot;http://www.unocha.org/cap/sites/unocha.org.cap/files/imagecache/appeal_front_image/images/Cover with photo credit.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  class=&quot;imagecache imagecache-appeal_front_image imagecache-default imagecache-appeal_front_image_default&quot; width=&quot;150&quot; height=&quot;150&quot; /&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-date field-field-updated-date&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;Thursday, July 28, 2011 - 09:14&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;&lt;fieldset class=&quot;fieldgroup group-dms-links&quot;&gt;&lt;legend&gt;DMS Links&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-dms-link&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;DMS link (PDF):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    HRD_2011_Horn_of_Africa_SCREEN.pdf        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.unocha.org/cap/appeals/humanitarian-requirements-document-horn-africa-drought-2011&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://www.unocha.org/cap/category/year/2011">2011</category>
+ <category domain="http://www.unocha.org/cap/category/country/horn-africa">Horn of Africa</category>
+ <category domain="http://www.unocha.org/cap/category/appeal/Other%20appeals">Other appeals</category>
+ <georss:point>2.0406669999821 45.325500000025</georss:point>
+ <pubDate>Tue, 11 Oct 2011 13:18:03 +0000</pubDate>
+ <dc:creator>reck@un.org</dc:creator>
+ <guid isPermaLink="false">1704 at http://www.unocha.org/cap</guid>
+</item>
+</channel>
+</rss>

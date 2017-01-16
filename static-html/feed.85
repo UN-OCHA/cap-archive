@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.unocha.org/cap"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>OCHA - Consolidated Appeal Process - Malawi</title>
+ <link>http://www.unocha.org/cap/taxonomy/term/95/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Malawi 2005 Flash Appeal</title>
+ <link>http://www.unocha.org/cap/malawi-2005-flash-appeal</link>
+ <description>&lt;div class=&quot;field field-type-filefield field-field-image&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;img src=&quot;http://www.unocha.org/cap/sites/unocha.org.cap/files/imagecache/appeal_front_image/images/Flash_2005_Malawi_Cover.jpg&quot; alt=&quot;&quot; title=&quot;&quot;  class=&quot;imagecache imagecache-appeal_front_image imagecache-default imagecache-appeal_front_image_default&quot; width=&quot;150&quot; height=&quot;150&quot; /&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-date field-field-updated-date&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;Tuesday, August 30, 2005 - 07:23&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;
+	This is not a typical United Nations (UN) Flash Appeal. It is a &amp;lsquo;smart Appeal&amp;rsquo;, requesting international support for the Government of Malawi&amp;rsquo;s (GoM) leadership in addressing both &lt;strong&gt;immediate humanitarian needs&lt;/strong&gt;, and to allow the Government to take action now to &lt;strong&gt;minimise the likelihood of another food-shortage driven humanitarian crisis next year&lt;/strong&gt;.&lt;/p&gt;
+&lt;fieldset class=&quot;fieldgroup group-dms-links&quot;&gt;&lt;legend&gt;DMS Links&lt;/legend&gt;&lt;div class=&quot;field field-type-text field-field-dms-link&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;DMS link (PDF):&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    Flash_2005_Malawi.pdf        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;/fieldset&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.unocha.org/cap/malawi-2005-flash-appeal&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://www.unocha.org/cap/category/year/2005">2005</category>
+ <category domain="http://www.unocha.org/cap/category/country/malawi">Malawi</category>
+ <category domain="http://www.unocha.org/cap/category/appeal/Flash%20Appeal">Flash Appeal</category>
+ <georss: />
+ <pubDate>Sat, 29 Dec 2012 12:31:10 +0000</pubDate>
+ <dc:creator>natalel@un.org</dc:creator>
+ <guid isPermaLink="false">2185 at http://www.unocha.org/cap</guid>
+</item>
+</channel>
+</rss>
